@@ -8,6 +8,17 @@ namespace ConcesionarioV1_Jesus
 {
     public class Vehículo
     {
+        // CONSTANTES
+
+        // MIEMBROS PRIVADOS
+
+        // CONSTRUCCIONES
+
+        // PROPIEDADES
+
+        // MÉTODOS PÚBLICOS
+
+        // MÉTODOS PRIVADOS
 
     }
 }
